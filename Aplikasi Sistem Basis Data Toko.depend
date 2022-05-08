@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651974635 source:c:\users\tessa\downloads\aplikasi sistem basis data toko\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
